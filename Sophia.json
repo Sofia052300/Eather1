@@ -1,4 +1,4 @@
-{
+
   "systems": [
     {      
       "name": "CALL OF DUTY",
@@ -64,7 +64,7 @@
         { 
           "name": "Eather MOD",
           "lib_name": "lib1.so",
-          "download_url": "https://github.com/Sofia052300/Eather1/raw/refs/heads/main/libgspace1.so
+          "download_url": "https://github.com/Sofia052300/Lib1/raw/refs/heads/main/libgspace1.so
         }
       ]
     }
@@ -72,4 +72,3 @@
   "music": ""
 }
 
-        
